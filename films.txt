@@ -1,0 +1,3 @@
+"Indiana Jones and the Last Crusade",1989,"PG-13","Action/Adventure/Fantasy",127,0
+"The Great Dictator",1940,"APPROVED","Comedy/Drama/War",125,0
+"This Is Spinal Tap",1984,"R","Comedy/Music",82,0
