@@ -1,5 +1,5 @@
 # What It Does #
-This project is a port in C of my 2018 project (Java Offline Movie Database)[https://github.com/TJEEPOT/Java-OMDB]. This port allowed me to understand how C differs from Java and explore more low-level programming concepts outside of OOP.
+This project is a port in C of my 2018 project [Java Offline Movie Database](https://github.com/TJEEPOT/Java-OMDB). This port allowed me to understand how C differs from Java and explore more low-level programming concepts outside of OOP.
 The program itself takes the same input and provides the same output as the Java variant, but internally it uses struts instead of objects and classes and dynamically allocates memory for holding those structs. 
 
 # What I Learned #
